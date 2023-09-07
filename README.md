@@ -8,4 +8,4 @@ Zawierają operacje takie jak:
 - klasy jawne i "tajne", metody, oraz funkcje,
 - pętle while(true) z wyjątkami "except",
 - Widget Tekkinter,
--Obsługa plików zapisu/odczytu w, r, a.
+- Obsługa plików zapisu/odczytu w, r, a.
